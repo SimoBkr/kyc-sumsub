@@ -1,0 +1,3 @@
+GET http://localhost:8034/api/kyc/users/1
+Content-Type: application/json
+
