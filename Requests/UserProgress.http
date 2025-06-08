@@ -1,0 +1,7 @@
+POST http://localhost:8034/api/kyc/start
+Content-Type: application/json
+
+{
+  "userId": "c17ba521-355b-4639-947e-5f2d4d56f262"
+}
+

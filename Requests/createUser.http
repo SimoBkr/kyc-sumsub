@@ -2,9 +2,9 @@ POST http://localhost:8034/api/kyc/users
 Content-Type: application/json
 
 {
-  "email": "simobkr.sb@gmail.com",
-  "firstName": "Simo",
-  "lastName": "Doe",
+  "email": "FREYA-KRAUSE@gmail.com",
+  "firstName": "FREYA",
+  "lastName": "KRAUSE",
   "phone": "123-456-7890"
 }
 
